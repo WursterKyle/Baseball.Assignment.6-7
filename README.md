@@ -1,1 +1,1 @@
-# Baseball.Assignment.6-7
+# Assignment 6 and 7 Main Branch for Baseball Analytics
