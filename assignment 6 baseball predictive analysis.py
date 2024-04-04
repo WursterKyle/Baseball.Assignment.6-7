@@ -69,3 +69,5 @@ print(correct_predictions)
 print("\nTeams Not Chosen:")
 print(not_chosen_teams)
 print(f"\nPercentage of Correctly Chosen Teams: {percentage_correct}%")
+
+print('Milwaukee Brewers 2024 World Series Champions')
